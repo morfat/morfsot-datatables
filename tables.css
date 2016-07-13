@@ -1,0 +1,71 @@
+ /*//space the table buttons */
+ 
+.buttons > .btn-group{
+ 	margin-right: 5px;
+ 	
+ }
+ 
+.buttons > .dt-buttons > .btn
+ {
+      margin-right: 5px;
+ }
+      
+  /* buttons colors */
+ .dt-buttons > .morfsot_buttons_delete {
+        color: red;
+    }
+ 
+  .dt-buttons > .morfsot_buttons_edit {
+        color: green;
+    }
+ 
+   .dt-buttons > .morfsot_buttons_new {
+        color: #0066cc;
+    }
+ 
+/* customize pagination */
+.pagination {
+  display: inline-block;
+  padding-left: 0;
+  margin: 0 0; /*ovverided this margin: 20px 0; */
+  border-radius: 4px;
+}
+
+
+/* for tables2.js */
+
+
+ /*//space the table buttons */
+ 
+.morfsot-datatable-buttons > .btn-group{
+ 	margin-right: 5px;
+ 	
+ }
+ 
+.morfsot-datatable-buttons > .dt-buttons > .btn
+ {
+      margin-right: 5px;
+ }
+      
+  /* buttons colors */
+ .dt-buttons > .morfsot-datatable-buttons-delete {
+        color: red;
+    }
+ 
+  .dt-buttons > .morfsot-datatable-buttons-create {
+        color: green;
+    }
+ 
+   .dt-buttons > .morfsot-datatable-buttons-update {
+        color: #0066cc;
+    }
+ 
+/* customize pagination */
+.morfsot-datatables-pagination {
+  display: inline-block;
+  padding-left: 0;
+  margin: 0 0; /*ovverided this margin: 20px 0; */
+  border-radius: 4px;
+}
+
+
